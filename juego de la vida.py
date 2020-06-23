@@ -26,6 +26,7 @@ gameState = np.zeros((nxC, nyC))
 #gameState[5, 4] = 1
 #gameState[5, 3] = 1
 
+#stick automata
 #Autómata movil
 gameState[21, 21] = 1
 gameState[22, 22] = 1
